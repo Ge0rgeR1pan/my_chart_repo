@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://Ge0rgeR1pan.github.io/my_chart_repo/test-0.1.0.tgz
+    - https://Ge0rgeR1pan.github.io/my_chart_repo/packages/test-0.1.0.tgz
     version: 0.1.0
 generated: "2025-10-24T10:33:47.987075+03:00"
